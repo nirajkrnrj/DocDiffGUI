@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DocDiffGUI
 
 > **Professional PDF Comparison & Document Difference Analysis**
@@ -284,3 +285,6 @@ Report
 ```
 
 **DocDiffGUI — Compare. Detect. Highlight. Report.**
+=======
+# DocDiffGUI
+>>>>>>> 4b72c322ca3b6b653e8c4daf705f26dee6f2a2a3
