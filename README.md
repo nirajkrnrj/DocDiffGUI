@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DocDiffGUI
 
 > **Professional PDF Comparison & Document Difference Analysis**
